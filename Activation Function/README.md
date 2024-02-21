@@ -21,6 +21,8 @@ Activation functions that are used in output layers of ML models (think classifi
 Activation functions that are used in hidden layers of neural networks. The primary purpose of these activation functions is to provide non-linearity without which neural networks cannot model non-linear relationships.
 
 ![image](https://github.com/TasnimNiger/Deep-Learning-Resources/assets/85071596/f1a54291-a281-4a71-9db4-ec5e75fc0033)
+**Advantages and Disadvantages**
+![image](https://github.com/TasnimNiger/Deep-Learning-Resources/assets/85071596/9609a39e-ca9b-41bf-bc82-8eb3b967255b)
 
 ##**Comparison Between Linear Activation Function and Other Activation Functions**
 ![image](https://github.com/TasnimNiger/Deep-Learning-Resources/assets/85071596/978a0327-28c9-4afa-817f-365e918c6a59)
